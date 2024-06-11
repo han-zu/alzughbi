@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,64 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Ph.D in Human-Centered Computing 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Clemson University** 
+*May 2027 (expected)*
+- Research interests: Human-computer interaction, usability, usable privacy and security.
+- Advisor: Prof. Bart Knijnenburg.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### M.Sc. in Computer Science
+**University of Passau**
+*Sep 2018 (2-year program)*
+- Focus area: IT Security and Cryptography.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Scholarships
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+### Talford Family Endowed Fellowship
+
+*Aug 2023–May 2024*
+
+- Awarded by Clemson University as the top student in the Fall 2023 cohort. Selected by the School of Computing graduate admissions committee.
+
+
+
+### Development-Oriented Scholarship
+
+*Apr 2017–Mar 2018*
+
+- Awarded by the Brot für die Welt agency for international students with high social involvement. Students were selected by the Protestant Students Community (ESG). The scholarship included a co-curricular program that facilitates intercultural ecumenical and interreligious experiences.
+
+
+
+### STIBET III – Matching Funds Scholarship
+
+*Apr 2016–Sep 2017*
+
+- Awarded by the German Academic Exchange Service (DAAD) for international students with high academic excellence. Students were selected by the International Office, University of Passau.
+
+
+
+
+## Affiliations
+
+
+
+### President
+
+**School of Computing Graduate Student Association (SoCGSA)**  
+
+*May 2024 – Present*
+
+
+
+### Member
+
+**Association for Computing Machinery (ACM)**  
+
+*Feb 2024 – Present*
+

@@ -1,9 +1,9 @@
 # main links links
 main:
 
-  - title: "Home"
+  - title: "Education"
 
-    url: "/"
+    url: "/education/"
 
   - title: "Research"
 
@@ -17,6 +17,10 @@ main:
 
     url: "/publications/"
 
-  - title: "CV"
+  - title: "Scholarships"
 
-    url: "/cv/"
+    url: "/scholarships/"
+
+  - title: "Affiliations"
+
+    url: "/affiliations/"

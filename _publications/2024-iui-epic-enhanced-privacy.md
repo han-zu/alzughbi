@@ -30,27 +30,11 @@ series: "IUI '24 Companion"
 
 ## Abstract
 
+<p style="text-align: justify;">
 
+This tutorial engages researchers in a series of collaborative activities towards Enhanced Privacy and Integrity Considerations (EPIC) for human subjects research in the artificial intelligence (AI) field. The tutorial aims to identify common challenges to study integrity, convey best practices for protecting participants at the point of study design, and discuss how to best design tools to support robust, privacy-enhancing human subjects research in AI. In particular, the tutorial provides hands-on training on how to determine sample size and collect participant demographics in a way that prioritizes data integrity, participant privacy, and sample representativeness. Tutorial participants discuss and troubleshoot the unique challenges to and opportunities for designing robust and ethical human-centered AI research.
+</p>
 
-EPIC: Enhanced Privacy and Integrity Considerations for Research (Tutorial).
-
-
-
-<!-- If you have a detailed abstract or summary, you can include it here -->
-
-
-
-## Keywords
-
-
-
-- Enhanced Privacy
-
-- Integrity Considerations
-
-- Research
-
-- Tutorial
 
 
 

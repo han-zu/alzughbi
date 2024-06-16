@@ -1,28 +1,23 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<hr style="border: 1px solid;">
 
-{% for pub in site.publications %}
+{% assign sorted_publications = site.publications | sort: 'year' | reverse %}
+
+{% for pub in sorted_publications %}
 
 ## [{{ pub.title }}]({{ pub.url }})
 
 **Authors:** {{ pub.authors }}  
 
-**{{ pub.booktitle }}{{ pub.institution ? ', ' + pub.institution : '' }}{{ pub.year ? ', ' + pub.year : '' }}**  
+{% if pub.booktitle %}
+**{{ pub.booktitle }}{% if pub.institution %}, {{ pub.institution }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}**  
+{% endif %}
 
-
-
-{{ pub.abstract }}
-
-
-
-**Citation:**  
-
-{{ pub.authors }}. **"{{ pub.title }}."** {{ pub.booktitle ? 'In ' + pub.booktitle + '.' : '' }} {{ pub.institution }} {{ pub.year }}. DOI: [{{ pub.doi }}]({{ pub.url }})
-
-
+<hr> 
 
 {% endfor %}

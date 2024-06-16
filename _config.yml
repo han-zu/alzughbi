@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hanna Alzughbi"
+title                    : "Han Alzughbi"
 title_separator          : "-"
-name                     : &name "Hanna Alzughbi"
+name                     : &name "Han Alzughbi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://halzugh.people.clemson.edu/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+#repository               : "https://github.com/han-zu/alzughbi"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Hanna Alzughbi"
-  pronouns         : "he/him"  
-  bio              : "PhD Researcher in Human-Centered Computing"
-  location         : "Clemson, SC"
+  avatar           : "DSC_0152_1.png"
+  name             : "Han Alzughbi"
+  pronouns         : #"he/him"  
+  bio              : "PhD Reseacher, Human-Centered Computing"
+  location         : #"Clemson, SC"
   employer         : "Clemson University"
   uri              : # URL
-  email            : "halzugh@clemson.edu" 
+  email            : "halzugh(at)clemson(dot)edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

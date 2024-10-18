@@ -9,7 +9,7 @@ redirect_from:
 
 
 <p style="text-align: justify;">
-Han holds an <strong>M.Sc. in Computer Science</strong> and has over five years of industry and <a href="/research/">research experience</a>, covering a broad spectrum of fields from cryptography to cybersecurity.
+Han holds an <a href="/education/">M.Sc. in Computer Science</a> and has over five years of <a href="/research/">industry and research experience</a>, covering a broad spectrum of fields from cryptography to cybersecurity.
 </p>
 
 <p style="text-align: justify;">
@@ -17,7 +17,7 @@ In addition to his research accomplishments, Han has shared his knowledge by <a 
 </p>
 
 <p style="text-align: justify;">
-Driven by his passion for enhancing digital privacy, Han's current research endeavors focus on understanding <strong>privacy concerns and preferences of internet users</strong>, with the aim of fostering a <strong>usable, privacy-preserving, secure, and trustworthy digital environment for data subjects.</strong>
+Driven by his passion for enhancing <strong>digital privacy</strong>, Han's current research endeavors focus on understanding <strong>privacy concerns and preferences</strong> of internet users, with the aim of fostering a <strong>usable, privacy-preserving, secure, and trustworthy</strong> digital environment for data subjects.
 </p>
 
 <p style="text-align: justify;">

@@ -26,6 +26,14 @@ main:
 
     url: "/scholarships/"
 
+  - title: "Conferences"
+
+    url: "/conferences/"
+
+  - title: "Workshops"
+
+    url: "/workshops/"
+
   - title: "Affiliations"
 
     url: "/affiliations/"

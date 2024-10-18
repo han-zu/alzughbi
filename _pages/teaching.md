@@ -56,4 +56,4 @@ Al-Quds University
 University of Passau  
 - Prepared material and graded exams for the Data Science class, in my fifth semester.
 - Taught the undergraduate lab of Programming Fundamentals, in my second and third semesters.
-  
+<hr>

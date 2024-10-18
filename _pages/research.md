@@ -80,4 +80,4 @@ Siemens Digital Industries Software, Munich, Germany
 -	Designed an IoT prototype that detects and prevents pipeline leakage. 
 -	Programmed NodeMCU platform to control water pumps based on inputs from sensors. 
 -	Implemented a CoAP-based service to manage system components remotely.
-  
+  <hr>

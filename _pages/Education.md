@@ -24,3 +24,4 @@ Clemson University
   <strong> M.Sc. in Computer Science</strong><span>Sep 2018</span>
   </div>
 University of Passau
+<hr>

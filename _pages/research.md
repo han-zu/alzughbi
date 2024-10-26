@@ -1,10 +1,10 @@
 ---
 layout: single
-#title: "Research"
-permalink: /research/
+#title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
-  - /research
+  - /experience
 ---
 
 {% include base_path %}
@@ -14,13 +14,37 @@ Research Experience
 ======
 <hr style="border: 1px solid;">
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <strong>Graduate Research Assistant</strong>
+    <span>Jan 2024–Present</span>
+</div>
+<p>Clemson University, Clemson, SC, US</p>
+<ul>
+    <li>Conduct assessments of LLMs to evaluate their ability to handle cultural nuances.</li>
+    <li>Develop Python scripts to automate structured interactions with the ChatGPT API, facilitating efficient, large-scale data collection.</li>
+    <li>Design diverse cultural scenarios to rigorously test AI response accuracy, analyzing results to detect cultural understanding and biases for model refinement.</li>
+    <li>Refine LLMs to create culturally adaptive communication assistants optimized for real-world deployment.</li>
+</ul>
+
+<div style="display: flex; justify-content: flex-start; align-items: right;">
+    <span style="margin-left: auto;">May 2023–Dec 2023</span>
+</div>
+<ul>
+    <li>Conducted NSF-funded research on data privacy enhancements for user-centered studies.</li>
+    <li>Investigated data collection practices used by the AI research community through their user studies.</li>
+    <li>Researched various techniques that could limit individuals' data tracing (e.g., differential privacy).</li>
+</ul>
+
+<hr>
+
+
 <div style="display: flex; justify-content: space-between;">
-  <strong>Graduate Research Assistant</strong><span>Jan 2024–Dec 2023</span>
-  </div>
-Clemson University, Clemson, SC, US
--	Conducted NSF-funded research on data privacy enhancements for user-centered studies.
--	Investigated data collection practices used by the AI research community through their user studies.
--	Researched various techniques that could limit individuals' data tracing (e.g., differential privacy).
+  <strong>Instructor</strong><span>Feb 2022–Jan 2023</span>
+</div>
+Bethlehem University
+- Taught Information Security and Risk Management to classes ranging 35–45 students per semester.
+- Developed curricula and exams in collaboration with professors from other sections.
+- Assigned students to conduct survey studies on online privacy and security issues.
 <hr>
 
 <div style="display: flex; justify-content: space-between;">

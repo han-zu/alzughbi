@@ -15,7 +15,7 @@ Education
 <hr style="border: 1px solid;">
 
 <div style="display: flex; justify-content: space-between;">
-  <strong>Ph.D. in Human-Centered Computing</strong><span>May 2027 (expected)</span>
+  <strong>Ph.D. in Human-Centered Computing</strong><span>May 2027</span>
   </div>
 Clemson University
 <hr>

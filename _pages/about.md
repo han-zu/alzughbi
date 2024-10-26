@@ -9,11 +9,11 @@ redirect_from:
 
 
 <p style="text-align: justify;">
-Han holds an <a href="/education/">M.Sc. in Computer Science</a> and has over five years of <a href="/research/">industry and research experience</a>, covering a broad spectrum of fields from cryptography to cybersecurity.
+Han holds an <a href="/education/">M.Sc. in Computer Science</a> and has over five years of industry and research <a href="/experience/">experience</a>, covering a broad spectrum of fields from cryptography to cybersecurity.
 </p>
 
 <p style="text-align: justify;">
-In addition to his research accomplishments, Han has shared his knowledge by <a href="/teaching/">teaching</a> classes on information security and cryptography.
+In addition to his research accomplishments, Han has shared his knowledge by teaching classes on information security and cryptography.
 </p>
 
 <p style="text-align: justify;">

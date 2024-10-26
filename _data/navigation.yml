@@ -10,21 +10,13 @@ main:
 
     url: "/education/"
 
-  - title: "Research"
+  - title: "Experience"
 
-    url: "/research/"
-
-  - title: "Teaching"
-
-    url: "/teaching/"
+    url: "/experience/"
 
   - title: "Publications"
 
     url: "/publications/"
-
-  - title: "Scholarships"
-
-    url: "/scholarships/"
 
   - title: "Conferences"
 
@@ -33,6 +25,10 @@ main:
   - title: "Workshops"
 
     url: "/workshops/"
+
+  - title: "Scholarships"
+
+    url: "/scholarships/"
 
   - title: "Affiliations"
 
